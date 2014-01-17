@@ -1,0 +1,27 @@
+baya:
+  age: 2
+  color: black, white
+  type: pitbull, adorable
+  size: medium 
+  energy: 10
+
+ella:
+  age: 8
+  color: tan
+  type: pug, loud
+  size: small
+  energy: 10
+  
+Obi:
+  age: 10
+  color: white, grey
+  type: french bulldog
+  size: small
+  energy: 5
+  
+Zeus:
+  age: 6
+  color: black, white
+  type: pitbull, sweet
+  size: large
+  energy: 2
